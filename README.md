@@ -2,7 +2,7 @@
 Comparison between no-cooperative, average, median, geometric median, and centerpoint based aggregation for adapt-then-combine (ATC) distributed diffusion.
 
 ## How to run
-Run python3 main.py
+Run python3 main.py  
 change attackerNum = 0 to simulate the case with no attack, and attackerNum = 6 to simulate the case with 6 Byzantine agents.
 
 ## Reference
